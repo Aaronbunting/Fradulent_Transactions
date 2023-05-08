@@ -34,11 +34,11 @@ What are the top 100 highest transactions made between 7:00 am and 9:00 am?
 
 5. Do you see any anomalous transactions that could be fraudulent?
 
-7. Is there a higher number of fraudulent transactions made during this time frame versus the rest of the day?
+6. Is there a higher number of fraudulent transactions made during this time frame versus the rest of the day?
 
 If you answered yes to the previous question, explain why you think there might be fraudulent transactions during this time frame.
 
-8. What are the top 5 merchants prone to being hacked using small transactions?
+7. What are the top 5 merchants prone to being hacked using small transactions?
 
 
 Create a view for each of your queries.
