@@ -8,6 +8,7 @@ You are asked to accomplish three main tasks:
 
 Data Modeling: Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
 Data Engineering: Create a database schema on PostgreSQL and populate your database from the CSV files provided.
+
 Data Analysis: Analyze the data to identify possible fraudulent transactions trends data, and develop a report of your observations.
  
 ## Instructions
@@ -35,8 +36,7 @@ What are the top 100 highest transactions made between 7:00 am and 9:00 am?
 5. Do you see any anomalous transactions that could be fraudulent?
 
 6. Is there a higher number of fraudulent transactions made during this time frame versus the rest of the day?
-
-If you answered yes to the previous question, explain why you think there might be fraudulent transactions during this time frame.
+   If you answered yes to the previous question, explain why you think there might be fraudulent transactions during this time frame.
 
 7. What are the top 5 merchants prone to being hacked using small transactions?
 
