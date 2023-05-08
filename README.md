@@ -6,12 +6,12 @@ In this homework assignment, you will apply your new SQL skills to analyze histo
 
 You are asked to accomplish three main tasks:
 
-## Data Modeling: Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
-## Data Engineering: Create a database schema on PostgreSQL and populate your database from the CSV files provided.
-## Data Analysis: Analyze the data to identify possible fraudulent transactions trends data, and develop a report of your observations.
+# Data Modeling: Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
+# Data Engineering: Create a database schema on PostgreSQL and populate your database from the CSV files provided.
+# Data Analysis: Analyze the data to identify possible fraudulent transactions trends data, and develop a report of your observations.
  
- Instructions
-Data Modeling
+##Instructions
+#Data Modeling
 Create an entity relationship diagram (ERD) by inspecting the provided CSV files. Part of the challenge here is to figure out how many tables you should create, as well as what kind of relationships you need to define among the tables. Feel free to discuss your database model design ideas with your classmates. You can use a tool like Quick Database DiagramsLinks to an external site. to create your model.
 
    Hints:
@@ -19,10 +19,10 @@ For the credit_card and transaction tables, the card column should be a VARCHAR 
 
 For the transaction table, the date column should be a TIMESTAMP datatype rather than DATE.
 
-Data Engineering
+#Data Engineering
 Using your database model as a blueprint, create a database schema for each of your tables and relationships. Remember to specify data types, primary keys, foreign keys, and any other constraints you defined. After creating the database schema, import the data from the corresponding CSV files.
 
-Data Analysis
+#Data Analysis
 Part 1:
 The CFO of your firm has requested a report to help analyze potential fraudulent transactions. Using your newly created database, generate queries that will discover the information needed to answer the following questions, then use your repository's ReadME file to create a markdown report you can share with the CFO:
 
